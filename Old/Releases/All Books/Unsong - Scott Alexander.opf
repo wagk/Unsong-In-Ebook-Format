@@ -1,16 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">bdbb35ec-e6ec-47ae-81a3-e8e4d5b73cc2</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8651c0ab-6454-4bee-b6cf-80c17ce66cfc</dc:identifier>
         <dc:title>Unsong</dc:title>
         <dc:creator opf:file-as="Alexander, Scott" opf:role="aut">Scott Alexander</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.60.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-20T15:23:09.059567+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">583a6302-0287-45ae-b44a-1809b6f79e41</dc:identifier>
         <dc:language>eng</dc:language>
         <meta content="{&quot;Scott Alexander&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2016-07-26T16:55:48+00:00" name="calibre:timestamp"/>
+        <meta content="2017-05-20T15:24:10.474000+00:00" name="calibre:timestamp"/>
         <meta content="Unsong" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#kobo" content="{&quot;is_multiple&quot;: null, &quot;#value#&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;search_terms&quot;: [&quot;#kobo&quot;], &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Kobo Collections&quot;, &quot;colnum&quot;: 1, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;label&quot;: &quot;kobo&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_category&quot;: true, &quot;is_custom&quot;: true, &quot;rec_index&quot;: 22}"/>
     </metadata>
     <guide>
         <reference href="Unsong - Scott Alexander.jpg" title="Cover" type="cover"/>
